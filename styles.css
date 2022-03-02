@@ -1,0 +1,15 @@
+.pizza-card {
+    background: #CA3C25;
+    padding: 1em;
+    margin: 0.5em;
+  }
+  main {
+    display: flex;
+    background: #FFD449;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
